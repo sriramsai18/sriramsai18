@@ -70,12 +70,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sriramsai18&theme=onedark)
-
----
-
 ## ✍️ Dev Quote
-
-_"First, solve the problem. Then, write the code." – John Johnson_
+ 
+"Self belief and hard work will always earn you success" - Virat Kohli_
