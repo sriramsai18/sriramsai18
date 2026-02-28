@@ -11,13 +11,13 @@
 
 ⚡ I love turning raw data into meaningful insights and building scalable data systems.
 
----
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-sai-laggisetti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriramsai18)
 
----
+
 
 ## 💻 Tech Stack
 
@@ -47,28 +47,25 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## 📌 Featured Projects
 
+🔹 [Ai pdf Q&A]
+🔹 [Turbo Chat](https://huggingface.co/spaces/sriiram18/turbochat)
 🔹 [Data Stock Pipeline](https://github.com/sriramsai18/datastockpipeline)  
-🔹 Car Price Prediction using Linear Regression  
-🔹 TV Sales Prediction Model  
+🔹 [Sales Dashboard](https://salesdashboard18.streamlit.app)
 🔹 Machine Learning Mini Projects  
 
----
 
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sriramsai18&theme=tokyonight)
 
----
 
 ## 🐍 Snake Eating My Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
----
 
 ## ✍️ Dev Quote
  
