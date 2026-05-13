@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sriram Laggisetti
-### 🚀 Aspiring Data Engineer | Machine Learning Enthusiast | 4th Year B.Tech Student from India
+### 🚀 Aspiring Data Engineer | Machine Learning Enthusiast | BTech Graduate from India
 
 🔭 I’m currently working on Data Engineering projects like building ETL pipelines using Docker, Airflow, and AWS.
 
